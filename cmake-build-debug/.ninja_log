@@ -1,0 +1,6 @@
+# ninja log v6
+17	903	7488168186295637	CMakeFiles/problem1.dir/main.cpp.obj	65d84dc8cf7c09ce
+42	571	7488183653538508	build.ninja	5332ae7fe862d230
+10	894	7488176303478583	CMakeFiles/problem1.dir/problem2.cpp.obj	b8f3f1e5171ef57b
+672	949	7488171052116442	problem1.exe	cdd764d3003fc0e4
+2	671	7488171045421528	CMakeFiles/problem1.dir/problem1.cpp.obj	8b33c26e060239ff
